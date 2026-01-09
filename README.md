@@ -16,7 +16,7 @@ MTD Sales, and Month-over-Month Growth using SQL and Power BI.
 - Return percentage calculated
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshotsdashboard.png)
+![Dashboard](screenshots dashboard)
 
 ## 🚀 Conclusion
 This project demonstrates end-to-end data analysis skills from data cleaning
